@@ -19,7 +19,8 @@ class AssignmentB
 
         Console.WriteLine(area);
 
-        // Dette udløser en fejl, da der ikke er en variable kaldt "height",
-        // men selvom man puttede "length", so er der et mismatch mellem datatyperne.
+        // This will prompt an error to occur, as there is no variable defined as "height".
+        // That being said, even if "height" is changed to "length", it will still not work,
+        // as there would be a datatype mismatch attempting to turn a double (width) into an int (area).
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\VarAndDataTypes_C\\VarAndDataTypes_C.csproj",
+      "projectUniqueName": "C:\\Users\\Fair\\VarAndTypeData\\VarAndDataTypes_C\\VarAndDataTypes_C.csproj",
       "projectName": "VarAndDataTypes_C",
-      "projectPath": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\VarAndDataTypes_C\\VarAndDataTypes_C.csproj",
+      "projectPath": "C:\\Users\\Fair\\VarAndTypeData\\VarAndDataTypes_C\\VarAndDataTypes_C.csproj",
       "packagesPath": "C:\\Users\\Fair\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\VarAndDataTypes_C\\obj\\",
+      "outputPath": "C:\\Users\\Fair\\VarAndTypeData\\VarAndDataTypes_C\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

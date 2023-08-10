@@ -20,6 +20,6 @@ class AssignmentC
 
         Console.WriteLine(d);
 
-        // Her bliver slutværdien konverteret til en double-type, og derfor bliver den udregnet korrekt.
+        // The end result will be converted to a double-type, and will therefore be processed and calculated properly.
     }
 }

@@ -14,9 +14,10 @@ class AssignmentA
 {
     private static void Main(string[] args)
     {
+        // Declaring and initializing variables
         int length = 16;
         double width = 5.1;
-
+        // Tells the console to output the length multiplied with the width
         Console.WriteLine(length * width);
     }
 }
