@@ -1,0 +1,5 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VarAndDataTypes_B\obj\Debug\net7.0\VarAndDataTypes_B.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VarAndDataTypes_B\obj\Debug\net7.0\VarAndDataTypes_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VarAndDataTypes_B\obj\Debug\net7.0\VarAndDataTypes_B.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VarAndDataTypes_B\obj\Debug\net7.0\VarAndDataTypes_B.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VarAndDataTypes_B\obj\Debug\net7.0\VarAndDataTypes_B.csproj.CoreCompileInputs.cache
